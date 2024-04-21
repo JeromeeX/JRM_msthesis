@@ -1,5 +1,6 @@
 ### JRM_msthesis
-Bioinformatic analysis codes in Xinglin Qian's master thesis
+----
+Bioinformatic analysis codes in Xinglin Qian's master thesis.
 
 #### ARRAY_ANALYSIS
 Including codes to find all the indices across every read, recording their direction and origin, finally mapping the distances between indices.
