@@ -1,0 +1,67 @@
+Raw file: C:\AATI\Data\2024 01 23\Tray-1 14-54-31\2024 01 23 14H 54M.raw
+Operator: administrator
+Capillary array: 070222-47USFP
+Capillary array utilization count: 272
+Notes: 
+Time Shift: Using configured: slope=0.00025,  intercept=0.0
+============================================================
+Capillary #: 1
+Well: B1
+Sample ID: HMW N2
+Description: 
+
+Capillary #: 2
+Well: B2
+Sample ID: TA299
+Description: 
+
+Capillary #: 3
+Well: B3
+Sample ID: Kar
+Description: 
+
+Capillary #: 4
+Well: B4
+Sample ID: TA299 E+H
+Description: 
+
+Capillary #: 5
+Well: B5
+Sample ID: Kar E+H
+Description: 
+
+Capillary #: 6
+Well: B6
+Sample ID: HMW N2 DraI
+Description: 
+
+Capillary #: 7
+Well: B7
+Sample ID: cbr EcoRI HindIII
+Description: 
+
+Capillary #: 8
+Well: B8
+Sample ID: cbr DraI
+Description: 
+
+Capillary #: 9
+Well: B9
+Sample ID: AF16
+Description: 
+
+Capillary #: 10
+Well: B10
+Sample ID: 1P3_After shearing_cleanup
+Description: 
+
+Capillary #: 11
+Well: B11
+Sample ID: 8P4_After shearing_cleanup
+Description: 
+
+Capillary #: 12
+Well: B12
+Sample ID: Ladder
+Description: 
+

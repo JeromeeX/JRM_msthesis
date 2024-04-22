@@ -3,7 +3,7 @@
 Bioinformatic analysis codes in Xinglin Qian's master thesis.
 
 #### ARRAY_ANALYSIS
-Including codes to find all the indices across every read, recording their direction and origin, finally mapping the distances between indices.
+Including codes to find all the indices across every read, recording their direction and origin, finally mapping the distances between indices. Also attached all the injection mixes used in the master thesis researches.
 
 #### FEMTO_PULSE
 Including all the FEMTO Pulse results included in the research.
@@ -18,8 +18,8 @@ Including all the FEMTO Pulse results included in the research.
 3. N2 undigested gDNA
 4. N2 digested gDNA
 5. N2 digested gDNA + 1x SRE
-- 20240123.pdf\
-As annotated in the .pdf file.
+- 20240123.pdf
+1. As annotated in the .pdf file.
 
 #### RESTRICT_FINDER
 Including codes to find all the non-AC reads that contains at least one restriction sites from either *Eco*RI or *Hin*dIII.
