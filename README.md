@@ -18,7 +18,7 @@ Including all the FEMTO Pulse results included in the research.
 3. N2 undigested gDNA
 4. N2 digested gDNA
 5. N2 digested gDNA + 1x SRE
-- 20240123.pdf
+- 20240123.pdf\\
 As annotated in the .pdf file.
 
 #### RESTRICT_FINDER
